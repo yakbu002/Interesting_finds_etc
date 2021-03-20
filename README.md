@@ -1,4 +1,4 @@
-# hello-world
+# Interesting finds, links etc.
 This is the first time I am using github.
 
 Lets put some notes that I wanted to keep 
